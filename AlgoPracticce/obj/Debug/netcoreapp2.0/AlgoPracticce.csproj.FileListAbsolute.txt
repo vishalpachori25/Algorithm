@@ -1,0 +1,11 @@
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/bin/Debug/netcoreapp2.0/AlgoPracticce.deps.json
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/bin/Debug/netcoreapp2.0/AlgoPracticce.runtimeconfig.json
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/bin/Debug/netcoreapp2.0/AlgoPracticce.runtimeconfig.dev.json
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/bin/Debug/netcoreapp2.0/AlgoPracticce.dll
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/bin/Debug/netcoreapp2.0/AlgoPracticce.pdb
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/obj/Debug/netcoreapp2.0/AlgoPracticce.csprojResolveAssemblyReference.cache
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/obj/Debug/netcoreapp2.0/AlgoPracticce.csproj.CoreCompileInputs.cache
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/obj/Debug/netcoreapp2.0/AlgoPracticce.AssemblyInfoInputs.cache
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/obj/Debug/netcoreapp2.0/AlgoPracticce.AssemblyInfo.cs
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/obj/Debug/netcoreapp2.0/AlgoPracticce.dll
+/Users/vishalpachori/Projects/AlgoPracticce/AlgoPracticce/obj/Debug/netcoreapp2.0/AlgoPracticce.pdb
